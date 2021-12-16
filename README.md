@@ -28,12 +28,12 @@ For multiple input values, the hypothesis function will look like,
 where x2, x3...xn  are multiple feature values
 
 # References
-Investopedia.
-Housing Price Prediction via Improved Machine Learning Techniques - ScienceDirect 
-Housing Price Prediction Based on Multiple Linear Regression 
-Kumari, Khushbu & Yadav, Suniti. (2018). Linear regression analysis study. Journal of the Practice of Cardiovascular Sciences. 4. 33. 10.4103/jpcs.jpcs_8_18. 
-Manorathna, Rukshan. (2020). Linear Regression with Gradient Descent. 
-Bargiela, Andrzej & Nakashima, Tomoharu & Pedrycz, W.. (2005). Iterative gradient descent approach to multiple regression with fuzzy data. 304- 309. 10.1109/NAFIPS.2005.1548552. 
+1. Investopedia.
+2. [Housing Price Prediction via Improved Machine Learning Techniques - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050920316318)
+3. [Housing Price Prediction Based on Multiple Linear Regression ](https://www.hindawi.com/journals/sp/2021/7678931/)
+4. Kumari, Khushbu & Yadav, Suniti. (2018). Linear regression analysis study. Journal of the Practice of Cardiovascular Sciences. 4. 33. 10.4103/jpcs.jpcs_8_18. 
+5. Manorathna, Rukshan. (2020). Linear Regression with Gradient Descent. 
+6. Bargiela, Andrzej & Nakashima, Tomoharu & Pedrycz, W.. (2005). Iterative gradient descent approach to multiple regression with fuzzy data. 304- 309. 10.1109/NAFIPS.2005.1548552. 
 
 
 
