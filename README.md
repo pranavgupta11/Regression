@@ -1,18 +1,18 @@
 # Regression
-#Problem Statement
+# Problem Statement
 Wrong estimate or prediction of real estate/ housing properties leads to wrong budgeting and delay of payment for both customers and brokers. Hence the problem is to have an accurate method or model to have justified and correct pricing of real estate.
-#Motivation
+# Motivation
 In real estate, there is usually a discrepancy between real pricing and expected pricing. As a result, it's preferable to utilise precise and best machine learning models based on historical records to forecast sales and purchase pricing. But various models can be used for predicting the price hence a comparative examination of the various models is required. Thus we planned to compile a short simulation on Comparative Analysis Of Various Models For House Sales Price  Prediction.
-#Literature
+# Literature
 House Price Index (HPI)-The House Price Index (HPI) is a broad measure of the movement of single-family property prices in the United States. In addition to serving as a trend indicator, it also serves as an analytical tool for estimating changes in mortgage default, prepayment, and housing affordability rates [1].
 Housing Price Prediction via Improved Machine Learning Techniques-Before building models, the data should be processed accordingly so that the models could learn the patterns more efficiently. Specifically, numerical values were standardised, while categorical values were one-hot-encoded[2].
 
 Housing Price Prediction Based on Multiple Linear Regression-According to economics principles, the market price of properties is attained when the demand and supply curves intersect with each other, which is subject to various factors, both subjectively and objectively[3]. 
 
 
-#Models used/proposed(Flow Diagram)
+# Models used/proposed(Flow Diagram)
 
-#Linear Regression:
+# Linear Regression:
 
 
 Linear Regression is a supervised machine learning algorithm. It carries out a regression task. Based on independent variables, regression models a goal prediction value. It is mostly used in forecasting and determining the link between variables. Different regression models differ in terms of the type of relationship they evaluate between dependent and independent variables and the number of independent variables they employ.
